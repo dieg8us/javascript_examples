@@ -1,3 +1,3 @@
-# javascript_examples
+# Javascript Ejemplos
 
-Pruebas y Ejemplos de Javascript
+Pruebas y ejemplos de Javascript
